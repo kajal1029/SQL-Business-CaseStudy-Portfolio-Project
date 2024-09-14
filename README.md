@@ -1,4 +1,4 @@
-# SQL Business CaseStudy Portfolio Project
+# Consumer-Goods-Analytics
 
 ## Introduction
 
